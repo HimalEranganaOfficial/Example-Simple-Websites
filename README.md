@@ -16,3 +16,13 @@ I'm constantly learning and improving my skills, so expect to see new additions 
 * CSS3
 * JavaScript (React, Vanilla JS, etc.)
 * More...
+
+## Contributing 🤝
+
+I welcome contributions to this repository! If you have an idea for a new project or want to improve an existing one, please feel free to submit a pull request.
+
+## License 📃
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+**I hope you enjoy exploring my projects! 😄**
